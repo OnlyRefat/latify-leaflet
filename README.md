@@ -8,13 +8,17 @@ A Plugin to find out Latitude & Longitude of a specific location.
 
 ## Features
 
+```
 Autocomplete Place Search
 Draggable Marker
+```
 
 ## RoadMap
-
+```
 Copy to ClipBoard
+```
 
 ## License
-
+```
 Copyright 2017@Rafi Ud Daula Refat
+```
